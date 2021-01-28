@@ -6,6 +6,10 @@ public class demo {
 		
 		
 		System.out.println("This is demo class");
+		
+		System.out.println("This is second class");
+		
+		
 	}
 
 }
